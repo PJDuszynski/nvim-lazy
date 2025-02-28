@@ -29,6 +29,7 @@ return {
     },
     highlight = {
       enabled = true,
+      disable = { "just " },
     },
   },
   dependencies = {
